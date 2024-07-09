@@ -88,7 +88,7 @@ extends processing time
 From the `src` directory, run the following commands:
 
 ```
-python Drone_Footprints.py -i '/Path/To/Dataset1/images' -o '/Path/To/Dataset1/output
+python Drone_Footprints.py -i '/Path/To/Dataset1/images' -o '/Path/To/Dataset1/output"
 ```
 
 ```
